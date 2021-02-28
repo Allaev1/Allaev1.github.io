@@ -1,0 +1,26 @@
+body {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    color: tomato;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover {
+    color: black;
+}
+
+p {
+    display: inline;
+}
+
+img {
+    border-color: chocolate;
+    border-width: 100pt;
+}
+
+hr {
+    background-color: blue;
+}
