@@ -5,9 +5,11 @@ body {
     max-width: 50em;
 }
 
+h1,
 h3 {
     color: tomato;
     font-family: Arial, Helvetica, sans-serif;
+    orientation: center;
 }
 
 a:hover {
