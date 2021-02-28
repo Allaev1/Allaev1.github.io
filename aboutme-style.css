@@ -9,8 +9,7 @@ h1,
 h3 {
     color: tomato;
     font-family: Arial, Helvetica, sans-serif;
-    display: flex;
-    justify-content: space-between;
+    text-align: center;
 }
 
 a:hover {
